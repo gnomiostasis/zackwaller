@@ -1,0 +1,6282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+    <name>UCIP_LD0001G_201606</name>
+    <open>1</open>
+    <visibility>1</visibility>
+            <Document>
+                <name>Unit No. 01 Sacramento River</name>
+                <visibility>0</visibility>
+                <Style id="a15">
+                    <IconStyle>
+                        <color>f200aaff</color>
+                        <Icon>
+                            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+                        </Icon>
+                    </IconStyle>
+                    <LabelStyle>
+                        <color>ff0000ff</color>
+                    </LabelStyle>
+                    <BalloonStyle>
+                        <text><![CDATA[<b><font size=" + 2; ">$[name]</font></b>
+<br/><br/>
+<font face="Arial">$[description]</font>]]></text>
+                    </BalloonStyle>
+                </Style>
+                <Placemark>
+                    <name>CLM: 0.765/ D: 3 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22893</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>0.765</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/29/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Reclaimed Water--other water slurries (nonpotable)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>1/7/1977</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>11782</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.4878063</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.0194139</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>3-inch pipe through levee 2.0 feet below crown.  Hose bib style sipnon breaker on WS shoulder.  Pipe runs from concrete sump next to barn on LS to cesspool off WS toe (Permit No. 11782, 1977).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Siphon breaker missing from WS shoulder.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14324</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22893</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>0.79</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.0194139,39.4878063,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 0.8/ D: 3 I</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22894</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>0.8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/29/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Indicator Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Gas,Oil,Steam, Petroleum, or Chemical</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel (other)</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>3/9/1959</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>1837</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.48816028</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.01988831</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>3-inch gas line through the levee 2.0 feet below the crown (Permit No. 1837, 1959).  Fenced in pumping plant area next to levee with appurtances.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Gasline appears abandoned, need to verify abandonment or mark actual pipe location.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14325</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22894</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>0.826</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.01988831,39.48816028,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 1.09/ D: 3 N</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22895</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>1.09</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/29/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Not Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Gas,Oil,Steam, Petroleum, or Chemical</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel (other)</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>8/20/1958</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>2171</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.49209</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.020014</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>1 of 2: 3-inch gas pipe through levee 2.0 feet below crown (Permit No. 2171, 1958).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Need to determine disposition of this pipe.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14326</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22895</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>1.12</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.020014,39.49209,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 1.247/ D: 3 I</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22896</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>1.247</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/29/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Indicator Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Gas,Oil,Steam, Petroleum, or Chemical</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel (other)</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>8/20/1958</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>2171</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.493977</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.01838</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>2 of 2:  3-inch pipe through levee 2.0 feet below crown (Permit No. 2171, 1958).  Abandoned gas-pump station 260-feet off LS toe.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Appears abandoned as well off LS toe has been removed.  Need to remove from levee or mark as appropriate.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14327</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22896</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>1.279</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.01838,39.493977,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 1.968/ D: 4 N</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22897</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>1.968</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/29/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Not Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Gas,Oil,Steam, Petroleum, or Chemical</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel (other)</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>0.17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>7/20/1987</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>14759</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.499823</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.009971</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>4-inch natural gas line through levee 0.17 feet below crown (Permit No. 14759, 1987).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Appears to have been abandoned.  Should be removed or marked as necessary.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14328</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22897</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>2.01</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.009971,39.499823,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 2.215/ D: 8 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22898</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>2.215</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/29/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>2.6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1969</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>5717A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td>5717</td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.50169</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.0061</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>8-inch pipe sleeved through 12-inch though the levee 5-feet below the crown.  Pump on landward side. Meter pole at landward toe, guy wire anchor in landward slope (Permit No. 5717A, 1969).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Pipe abandoned and should be done so properly.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14331</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22898</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>2.26</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.0061,39.50169,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 2.565/ D: 14 N</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22899</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>2.565</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/29/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Not Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>14</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9577</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.506417</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.006971</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>*ABANDONED* 14-inch pipe through levee 11.0 feet below crown.  Flap gate on waterward end on bank. Pump house, concrete distribution box, and 36-inch concrete standpipe at toe on landward slope (ABO No. 9577, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>No pipe found.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22899</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>2.614</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.006971,39.506417,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 3.125/ D: 12 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22901</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>3.125</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/29/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>3/8/1974</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9575</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.513835</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.010029</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>*ABANDONED* 12-inch pipe through levee 14.0 feet below crown. Flap Gate on waterward end (ABO No. 9575, 1974).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Appears to have been abandoned.  Need to verify pipe was grouted/abandoned properly.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>16223</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22901</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>3.181</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.010029,39.513835,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 3.185/ D: 8 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22902</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>3.185</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/29/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>6/21/1976</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>12392</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.51463677</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.01046445</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>8-inch pipe through levee 2.0 feet below crown. Siphon breaker on the waterward shoulder.  Pump, vent, and butterfly valve located 160-feet off LS toe (Permit No. 12392, 1976).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14336</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22902</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>3.241</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.01046445,39.51463677,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 3.979/ D: 18 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22904</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>3.979</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/29/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>7.3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9572</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.52499</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.009575</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>18-inch pipe through levee 7.3 feet below crown.  Flap gate in 6'X6'concrete box on waterward end. Concrete bulkhead at landward toe (ABO No. 9572, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Broken flap gate and Concrete headwall on LS toe possibly tilting.  Also a 3-inch alluminum irrigation line through the pipe.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>16243</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22904</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>4.045</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.009575,39.52499,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 4.251/ D: 18 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22906</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>4.251</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>8.6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>10/15/1947</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>1229</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.52705</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.005247</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>16-inch concrete irrigation pipe through the levee 8.6 feet below the crown.  Gate valve in concrete well on waterward slope. Pump, service pole, engine, and fuel tank 48-inch standpipe at toe of landward slope (Permit No. 1229, 1947).  Included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Gate valve broken off in concrete standpipe on WS shoulder.  8-inch aluminum pipe sleeved through pipe prevents closure of 18-inch pipe.  All concrete standpipes have been modified or broken.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14343</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22906</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>4.322</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.005247,39.52705,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 5.506/ D: 12 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22907</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>5.506</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>6.5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>344</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td>9566</td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.540546</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-121.998981</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>12-inch pipe through levee 6.5 feet below crown. Gate valve at toe of waterward slope. Air vent and pump at LS toe.  (ABO No. 9566, 1974) (App. No. 344-Giesbrecht) Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14346</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22907</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>5.593</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-121.998981,39.540546,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.154/ D: 12 I</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22910</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.154</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Indicator Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Gas,Oil,Steam, Petroleum, or Chemical</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel (other)</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>8/20/1958</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>2462</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td>5118</td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.54957</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.001993</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>1 of 2: *Abandoned* 12-inch gas line through levee 2.0 feet below crown.  Downstream line grouted in 1969.  Marker (V350) on waterward shoulder (Permit No. 2462, 1958).  Gasline marker and blue painted railing around station at LS toe.  Replaced with new pipe at LM 6.274 under Permit No. 5118.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14354</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22910</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.25</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.001993,39.54957,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.179/ D: 12.75 I</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22911</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.179</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Indicator Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>12.75</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Gas,Oil,Steam, Petroleum, or Chemical</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel (other)</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>12/23/1965</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>5118</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.549911</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.002102</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>1 of 2: 12.75-inch high pressure gas line through levee 3.0 feet below crown (Permit No. 5118, 1965).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>New gasline markers should be installed as existing signage has been sun faded</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14352</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22911</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.274</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.002102,39.549911,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.25/ D: 10 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22912</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.25</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>8.3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.550919</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.0024</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>10-inch Storm drain pipe through levee 8.3 feet below crown. Pump on Landside toe. Discharge into 36-inch concrete standpipe, 10 feet in height at toe of landward slope.  Flap gate inside 36-inch concrete standpipe at LS toe.  Slide gate inside 6-foot diameter CMP riser on LS slope. Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14356</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22912</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.346</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.0024,39.550919,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.447/ D: 36 I</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22913</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.447</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Indicator Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>36</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>19.5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>9/13/1937</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td>16720</td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.55372</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.003014</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>1 of 3: *Abandoned* 36-inch concrete encased pipe through levee 19.5 feet below crown.  Flap gates on landward end, bolted down after irrigation season .  Pipe filled with concrete as part of Permit No. 16720. Included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>16727</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22913</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.545</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.003014,39.55372,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.456/ D: 48 I</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22914</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.456</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Indicator Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>48</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>19.5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>4/3/1951</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>1533</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td>16720</td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.553839</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.003034</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>*Abandoned* 48-inch concrete encased discharge pipe through levee 19.5 feet below crown.  Flap gates on landward end, bolted down afte rirrigation season.   Pipe filled with concrete as part of Permit No. 16720.  (Permit No. 1533, 1951).  Included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>16726</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22914</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.554</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.003034,39.553839,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.732/ D: 36 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22915</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.732</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>36</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>1443A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.557721</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.004267</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>36-inch concrete encased pipe through levee 9.0 feet below crown.  Steel plate welded over pipe at LS toe.  3-inch steel vent pipe on LS toe.  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Pipe abandoned, but need to verify if it was abandoned properly.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14373</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22915</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.834</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.004267,39.557721,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.752/ D: 2 I</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22916</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.752</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Indicator Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Communication Cables and Conduits</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel (other)</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>2.5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>10/28/1987</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>14592</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.55800987</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.00432188</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>2-inch diameter steel telephone conduit through levee 2.5 feet below crown. Extends from exisiting pedistal located forty feet from landward toe to pedistal on WS slope (Permit No. 14592, 1987).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14383</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22916</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.854</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.00432188,39.55800987,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.9/ D: 24 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22917</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>24</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>7.2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9702</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.56007158</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.00503943</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>20-inch concrete encased steel pipe through levee 7.2 feet below crown. Slant pump on waterward bank. Slide gate in 36-inch concrete standpipe on waterward berm (ABO No. 9702, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Abandoned and should be done so properly.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14384</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22917</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>7.005</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.00503943,39.56007158,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 8.467/ D: 12 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22918</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>8.467</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9563</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.582275</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.007449</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>*ABANDONED* 12-inch drainage pipe through levee 5.0 feet below crown.  Pipe open on both ends. One corrugated metal cutoff wall (ABO No. 9563, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Pipe open on both ends and damaged on WS slope.  Pipe should be abandoned properly if appropriate.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>43096</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22918</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>8.59</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.007449,39.582275,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 8.835/ D: 30 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22919</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>8.835</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9562</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.587097</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.005598</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>24-inch steel drainage pipe through the levee 15.0 feet below the crown. Flap gate on waterward end. Slide gate in 44-inch corrugated metal riser on waterward slope. Concrete headwalls on both ends. Two corrugated metal cutoff walls. (ABO No. 9562, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>16226</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22919</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>8.963</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.005598,39.587097,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 9.492/ D: 72 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22920</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>9.492</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>72</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9560</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.596012</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.002638</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>72-inch corrugated metal drainage pipe through levee 15.0 feet below crown. Flap Gate on waterward end. Slide gate in 8' diameter corrugated metal pipe riser on waterward slope. Concrete headwalls on both ends. Two corrugated metal cutoff walls (ABO No. 9560, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Heavy rust along springline of pipe.  Pipe has slight deformation at centerline of levee, not noticable on crown.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14389</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22920</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>9.625</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.002638,39.596012,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 9.906/ D: 24 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22921</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>9.906</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>24</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9559</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.60147</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-121.999501</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>24-inch corrguated metal drainage pipe through levee 11.0 feet below crown. Flap gate on waterward end. Slide gate in 36-inch corrugated metal pipe riser on waterward slope. Concrete headwalls on both ends. Two corrugated metal cutoff walls (ABO No. 9559, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14390</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22921</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>10.042</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-121.999501,39.60147,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 9.927/ D: 24 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22922</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>9.927</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>24</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9558</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.6016589</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-121.999209</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>24-inch corrguated metal drainage pipe through levee 11.0 feet below crown. Flap gate on waterward end. Slide gate in 36-inch corrugated metal pipe riser on waterward slope. Two corrugated metal cutoff walls. Concrete headwalls on both ends (ABO No. 9558, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14559</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22922</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>10.063</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-121.999209,39.6016589,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 10.41/ D: 10 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22923</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>10.41</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>3.7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9557</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.607474</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-121.99441</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>1 of 2: 10-inch pipe through levee 3.7 feet below crown. Pump on bank. Siphon breaker on waterward berm. One corrugated metal cutoff wall. Concrete distribution box at toe of landward slope (ABO No. 9557, 1974).  Orginally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>This pipe appears abandoned and should be done so properly.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14561</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22923</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>10.55</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-121.99441,39.607474,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 10.427/ D: 24 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22924</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>10.427</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>24</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9556</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.607688</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-121.994278</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>24-inch corrugated metal drainage pipe through levee 15.0 feet below crown. Flap gate on waterward end. Slide gate in CMP riser on waterward slope. Two CM cutoff walls. Concrete headwall on landside and under outlet at WS toe (ABO No. 9556, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Flap gate dissabled in open position.  Pipe rusted through at WS toe upstream of Flapgate.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>41784</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22924</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>10.567</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-121.994278,39.607688,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 11.015/ D: 48 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22925</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>11.015</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>48</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9556</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.616041</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-121.99445</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>48-inch corrugated metal drainage pipe through levee 11.0 feet below crown. Flap gate on waterward end. Concrete headwall on both ends. Slide gate in 60-inch diameter corrugated metal pipe riser on waterward slope (ABO No. 9556, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14565</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22925</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>11.16</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-121.99445,39.616041,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 11.644/ D: 24 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22926</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>11.644</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>24</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>8.5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9555</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.623874</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-121.999813</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>24-inch corrguated metal drainage pipe through levee 8.5 feet below crown. Flap gate on waterward slope. U-shaped Concrete headwalls on both ends. Two corrugated metal cutoff walls (ABO No. 9555, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14566</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22926</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>11.794</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-121.999813,39.623874,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 11.762/ D: 24 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22927</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>11.762</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>24</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9554</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.625463</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.000658</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>24-inch corrguated metal drainage pipe through levee 11.0 feet below crown. Slide gate in 36-inch corrugated metal pipe riser on waterward slope. 48-inch concrete standpipe on landward toe. Two corrguated metal cutoff walls (ABO No. 9554, 1974).  Orignally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Erosion and sloughing on LS slope possibly due to rodent activity in area.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14567</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22927</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>11.913</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.000658,39.625463,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 11.871/ D: 24 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22928</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>11.871</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>24</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9554</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.626918</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.001421</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>24-inch corrugated metal drainage pipe through levee 7.0 feet below crown. Flap gate on waterward end. Slide gate in 36-inch corrugated metal pipe riser on waterward slope. Concrete headwalls on both ends. Two corrugated metal cutoff walls (ABO No. 9554, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Flap gate heavily corroded.  Good candidate for video inspection.  Vegetation interfering with inlet.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14569</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22928</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>12.022</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.001421,39.626918,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 12.125/ D: 24 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22929</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>12.125</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>24</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9554</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.630451</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.002737</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>24-inch corrugated metal drainage pipe through levee 7.0 feet below crown. Flap gate on waterward end. Slide gate in 36-inch corrugated metal pipe riser on waterward slope. U-shaped Concrete headwalls on both ends (ABO No. 9554, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14570</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22929</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>12.279</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.002737,39.630451,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 12.138/ D: 1 I</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22930</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>12.138</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Indicator Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Communication Cables and Conduits</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel (other)</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td></td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9583</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.630641</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.002777</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>Buried telephone cable through levee (ABO No. 9583, 1974).  Possible line connection between poles off LS and WS toes.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>16227</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22930</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>12.292</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.002777,39.630641,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 4.674/ D: 4 N</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22931</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>4.674</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Not Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>8/12/1997</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>16724</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.529728</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-121.998129</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>4-inch galvanized iron pipe through levee 2.0 feet below crown (Permit No. 16724, 1997).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>FPIIB USGS Quadrangle Maps</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14344</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22931</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>4.75</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-121.998129,39.529728,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 3.338/ D: 4 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22932</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>3.338</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/29/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>8/3/1976</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>11542A</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td>11542</td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.51670295</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.01100456</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>4-inch pipe through levee 2.0 feet below crown.  Air vent on LS shoulder (Permit No. 11542A, 1976).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>FPIIB USGS Quadrangle Maps</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14337</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22932</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>3.396</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.01100456,39.51670295,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 0.564/ D: 6 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22933</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>0.564</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/29/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>12/28/1998</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>16934</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.4851052</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.0180816</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>6-inch pipe through the levee 2.0 feet below the crown.  Pump and butterfly valve on LS toe.  Vent in 16-inch CMP riser on WS shoulder (Permit No. 16934, 1998).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>FPIIB USGS Quadrangle Maps</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14323</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22933</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>0.587</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.0180816,39.4851052,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.333/ D: 6 N</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22934</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Not Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Unknown</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td></td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>0.8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.552087</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.002739</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>6-inch pipe through levee 0.8 feet below crown.  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14357</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22934</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.43</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.002739,39.552087,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.723/ D: 72 N</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22935</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.723</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Not Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>72</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>17.8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.557602</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.004249</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>1 of 4: 6x8-foot concrete culvert through levee 17.8 feet below crown.  Slant pump on waterward side. Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Appears to have been removed.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14369</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22935</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.825</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.004249,39.557602,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.155/ D: 12 I</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22936</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.155</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Indicator Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Gas,Oil,Steam, Petroleum, or Chemical</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel (other)</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>8/20/1958</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>2462</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td>5118</td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.54958</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.001997</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>2 of 2: *Abandoned* 12-inch gas line through levee 2.0 feet below crown.  Downstream line grouted in 1969.  Marker (V351) on pipe at LS toe (Permit No. 2462, 1958).  Gasline marker and blue painted railing around station at LS toe.   Replaced with new pipe at LM 6.274 under Permit No. 5118.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14355</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22936</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.25</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.001997,39.54958,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.181/ D: 12.75 I</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22937</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.181</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Indicator Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>12.75</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Gas,Oil,Steam, Petroleum, or Chemical</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel (other)</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>10/27/1965</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>5118</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.549938</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.00211</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>2 of 2: 12.75-inch high pressure gas line through levee 3.0 feet below crown (Permit No. 5118, 1965).  Gasline sign on WS shoulder.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Pipe needs new gasline markers as sign on WS shoulder is sunbleached and cannot be read.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR FPIIB Current Levee Logs</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>16224</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22937</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.276</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.00211,39.549938,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 10.411/ D: 1.5 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22938</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>10.411</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Electrical Power</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>9557</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.607474</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-121.99441</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>2 of 2:  1.5 inch galvanized iron electrical conduit through the levee 3.0 feet below the crown (ABO No. 9557, 1974).  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Abandoned and should be done so properly.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14562</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22938</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>10.55</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-121.99441,39.607474,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.449/ D: 36 I</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22939</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.449</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Indicator Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>36</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>19.5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>9/13/1937</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td>16720</td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.55375</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.003017</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>2 of 3: *Abandoned* 36-inch concrete encased pipe through levee 19.5 feet below crown.  Flap gates on landward end, bolted down after irrigation season.   Pipe filled with concrete as part of Permit No. 16720.  Included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>16728</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22939</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.548</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.003017,39.55375,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.452/ D: 36 I</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22940</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.452</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Indicator Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>36</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>19.5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>9/13/1937</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td>16720</td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.553787</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.003023</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>3 of 3:  *Abandoned* 36-inch concrete encased pipe through levee 19.5 feet below crown.  Flap gates on landward end, bolted down after irrigation season.   Pipe filled with concrete as part of Permit No. 16720.  Included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>16725</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22940</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.55</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.003023,39.553787,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.725/ D: 72 N</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22941</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.725</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Not Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>72</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>17.8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.557629</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.004252</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>2 of 4: 6x8-foot concrete culvert through levee 17.8 feet below crown.  Slant pump on waterward side.   Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Appears to have been removed.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14370</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22941</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.827</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.004252,39.557629,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.727/ D: 72 N</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22942</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.727</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Not Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>72</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>17.8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.557656</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.004257</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>3 of 4: 6x8-foot concrete culvert through levee 17.8 feet below crown.  Slant pump on waterward side.   Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Appears to have been removed.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14371</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22942</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.829</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.004257,39.557656,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.729/ D: 72 N</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22943</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.729</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Not Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>72</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>17.8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.557683</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.004261</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>4 of 4: 6x8-foot concrete culvert through levee 17.8 feet below crown.  Slant pump on waterward side.  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Appears to have been removed.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>DWR Levee Log and USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14372</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22943</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.831</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.004261,39.557683,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 2.216/ D: 12 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22944</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>2.216</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/29/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Drainage (Storm Drain)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>5/14/1960</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.50169</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.006099</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>*ABANDONED* 12-inch pipe through levee 5-feet below crown.  Flap gate on W.S.  8-inch pipe sleeved through 12-inch.  Open on LS.  Originally included in the 1960 O&M manual.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Appears abandoned and should be done so properly.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>USACE Operation and Maintenance Manual</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14332</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22944</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>2.26</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.006099,39.50169,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.418/ D: 7 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22945</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.418</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>7/8/1997</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>16720</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.55329</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.003</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>1 of 4:  7-foot diameter reinforced concrete-lined irrigation pipes through the levee approximately 30-feet below the crown.  2 Pumps and 2 flap gates off LS shoulder at canal.  Access culverts, and fifteen 5-by 26.5-foot wedge-wire fish screens on the right bank of the Sacramento River (Permit No. 16720, 1997).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>FPIIB USGS Quadrangle Maps</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14358</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22945</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.515</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.003,39.55329,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.421/ D: 7 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22946</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.421</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>7/8/1997</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>16720</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.55334</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.00299</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>2 of 4:   7-foot diameter reinforced concrete-lined irrigation pipes through the levee approximately 30-feet below the crown.  2 Pumps and 2 flap gates off LS shoulder at canal.  Access culverts, and fifteen 5-by 26.5-foot wedge-wire fish screens on the right bank of the Sacramento River (Permit No. 16720, 1997).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>FPIIB USGS Quadrangle Maps</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14359</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22946</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.519</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.00299,39.55334,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.425/ D: 7 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22947</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.425</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>7/8/1997</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>16720</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.5534</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.00299</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>3 of 4:   7-foot diameter reinforced concrete-lined irrigation pipes through the levee approximately 30-feet below the crown.  2 Pumps and 2 flap gates off LS shoulder at canal.  Access culverts, and fifteen 5-by 26.5-foot wedge-wire fish screens on the right bank of the Sacramento River (Permit No. 16720, 1997).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>FPIIB USGS Quadrangle Maps</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14360</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22947</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.523</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.00299,39.5534,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 6.429/ D: 7 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 22948</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>6.429</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/30/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--No Coatings</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td>7/8/1997</td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td>16720</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.55345</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.00299</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>4 of 4:   7-foot diameter reinforced concrete-lined irrigation pipes through the levee approximately 30-feet below the crown.  2 Pumps and 2 flap gates off LS shoulder at canal.  Access culverts, and fifteen 5-by 26.5-foot wedge-wire fish screens on the right bank of the Sacramento River (Permit No. 16720, 1997).</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td></td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>FPIIB USGS Quadrangle Maps</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>14361</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>22948</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>6.527</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.00299,39.55345,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 8.83/ D: 1.5 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 23147</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>8.83</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td></td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.587028</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-122.005609</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>1.5-inch galvanized iron pipe through the levee 6-feet below the crown.  1-inch PVC irrigation line sleeved through this conduit.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Need to determine if this passes completely through levee and what Permit No. was issued for it.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>Field Study Discovered (UCIP)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>16204</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>23147</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>8.958</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-122.005609,39.587028,0</coordinates>
+                    </Point>
+                </Placemark>
+                <Placemark>
+                    <name>CLM: 10.195/ D: 6 F</name>
+                    <visibility>0</visibility>
+                    <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>DS-ID: 23148</td>
+</tr>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:610;border:1px solid;border-spacing:0px;border-collapse:collapse;padding:5px 5px 5px 5px" cellpadding="5">
+<COLGROUP span=1 width=200>
+<tr>
+<td>Current Levee Mile (CLM):</td>
+<td>10.195</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Inspection Date:</td>
+<td>05/31/2013</td>
+</tr>
+<tr>
+<td>Crossing Status:</td>
+<td>Found</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Diameter (in):</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Crossing Type:</td>
+<td>Irrigation</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Material:</td>
+<td>Steel--Exterior Coating</td>
+</tr>
+<tr>
+<td>Depth below Crown (feet):</td>
+<td>0.75</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Installed Date:</td>
+<td></td>
+</tr>
+<tr>
+<td>Primary Permit:</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Secondary Permit(s):</td>
+<td></td>
+</tr>
+<tr>
+<td>Latitude:</td>
+<td>39.604696</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Longitude:</td>
+<td>-121.996265</td>
+</tr>
+<tr>
+<td>Field Structure Description:</td>
+<td>6-inch steel conduit through the levee 8-inches below the crown.  Pump, vent, filter, and siphon breaker on LS toe.  4-inch PVC irrigation line sleeved through conduit for vegetation rehabilitation on WS slope.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Field Study Comments:</td>
+<td>Need to determine Permit No. for crossing.</td>
+</tr>
+<tr>
+<td>Record Source:</td>
+<td>Field Study Discovered (UCIP)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Short Name:</td>
+<td>LD0001G</td>
+</tr>
+<tr>
+<td>Agency Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LMA Name:</td>
+<td>Levee District No. 0001 (Glenn County)</td>
+</tr>
+<tr>
+<td>Unit Name:</td>
+<td>Unit No. 01 Sacramento River</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Stream:</td>
+<td>Sacramento River</td>
+</tr>
+<tr>
+<td>Field Study ID:</td>
+<td>16205</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Desk Study ID:</td>
+<td>23148</td>
+</tr>
+<tr>
+<td>Historic Levee Mile (HLM):</td>
+<td>10.33</td>
+</tr>
+</table>
+</td>
+</tr>
+</body>
+</html>
+]]></description>
+                    <styleUrl>#a15</styleUrl>
+                    <Point>
+                        <coordinates>-121.996265,39.604696,0</coordinates>
+                    </Point>
+                </Placemark>
+            </Document>
+</Folder>
+</kml>

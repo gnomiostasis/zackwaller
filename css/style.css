@@ -1,0 +1,189 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 25, 2015, 12:10:47 PM
+    Author     : Zack
+*/
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 25, 2015, 12:10:47 PM
+    Author     : Zack
+*/
+html, body {
+    outline: none !important;
+    width: 100%;
+    height: 100%;
+    font-family: 'Metrophobic', Arial, serif !important; 
+    font-size: 16px;
+    min-width: 320px;
+    overflow-y: hidden;
+}
+
+body 
+{
+    cursor: default;
+    background-color:rgba(246,247,189,1);
+    background-image: url('../image/woodbg.jpg');
+
+    background-size: cover;
+    background-repeat: repeat-y;
+    background-position: center center;
+    /*    -webkit-filter: blur(2px);
+    -moz-filter: blur(2px);
+    -o-filter: blur(2px);
+    -ms-filter: blur(2px);
+    filter: blur(2px);*/
+}
+
+
+/*
+        COntent stuff
+*/
+#contentarea
+{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.pointything
+{
+    width: 0px;
+    height: 0px;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-right: 15px solid rgba(81,81,81,1);
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+}
+#debug
+{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+/*HEADER STUFF*/
+#accentstripe
+{
+    position: fixed;
+    top:0px;
+    left: 0px;
+    height: 5px;
+    width: 100%;
+}
+#headerarea
+{
+    position: fixed;
+    top:5px;
+    left: 0px;
+    text-align: center;
+    box-shadow: 0px 1px 3px 0px #333333;
+    width: 100%;
+}
+
+#title{
+    font-family: 'Poiret One', cursive !important;
+    color: white;
+    font-size: 35px;
+
+}
+
+#links {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+}
+
+#link ul{
+    text-align:center;
+}
+#links li {
+    display:inline;
+    height: 100%;
+    line-height: 50px;
+}
+
+#links li a {
+    /*display: block;*/
+    color: white;
+    padding: 10px;
+    padding-top:17px;
+    padding-bottom:17px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+#links li a:hover {
+    background-color:rgba(0,180,255,1);
+}
+
+/*END OF HEADER STUFF*/
+
+
+
+.fullheight{
+    height: 100%;
+}
+.thirdheight
+{
+    height: 32.33%;
+}
+.floatleft{
+    float: left;
+}
+.floatright{
+    float: right;
+}
+
+
+
+.row{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+
+
+
+
+
+.color1
+{
+    background-color: rgba(81,81,81,1);
+}
+.color2
+{
+    background-color:rgba(255,255,255,1);
+}
+
+.color3
+{
+    background-color:rgba(0,180,255,1);
+}
+
+.color4{
+    background-color:rgba(238,238,238,1);
+}
+
+.color5{
+    background-color:rgba(240,168,48,1);
+}
+
+
+
+
+/*conditional style*/
+@media (min-width: 767px) {
+    #leftcontent,#rightcontent
+    {
+        box-shadow: 0px 0px 10px 5px #333333
+    }
+}

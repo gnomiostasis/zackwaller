@@ -1,0 +1,118 @@
+configOptions={
+  "hideDescription": true,
+  "title": "My Map",
+  "titleUrl": "http://ferix.water.ca.gov",
+  "tolerance": "6",
+  "useGeometry": true,
+  "hideNoData": true,
+  "showLayerWin": true,
+  "locations_uploader": true,
+  "basemap_gallery": true,
+  "showFullScreen": true,
+  "style": "flat",
+  "hideSingleTab": true,
+  "infowinSaveData": {
+    
+  },
+  "map": {
+    "minZoom": "",
+    "maxZoom": "",
+    "basemap": "topo",
+    "extent": {
+      "xmin": -15100079.248585045,
+      "ymin": 3143280.0851480835,
+      "xmax": -10990824.607975062,
+      "ymax": 5440059.91106045,
+      "spatialReference": {
+        "wkid": 102100
+      }
+    }
+  },
+  "tabs": [
+    {
+      "type": "empty",
+      "enabled": true,
+      "options": {
+        "tabName": "Custom Tab 1",
+        "off": true,
+        "opacity": 1
+      },
+      "addtl": [
+        {
+          "type": "simple",
+          "url": "https://gis.water.ca.gov/arcgis/rest/services/Public/BBMRS/MapServer",
+          "layers": [
+            0
+          ],
+          "startEnabled": false,
+          "opacity": 1
+        },
+        {
+          "type": "simple",
+          "url": "https://gis.water.ca.gov/arcgis/rest/services/Public/BBMRS/MapServer",
+          "layers": [
+            2
+          ],
+          "startEnabled": false,
+          "opacity": 1
+        },
+        {
+          "type": "generic",
+          "url": "http://webapp01.geiconsultants.com/ftp/gisfiles/YuimaMWD_GSA_Boundary.zip",
+          "title": "YuimaMWD_GSA_Boundary",
+          "options": {
+			"defaultZoomTo":true,
+            "filename": "http://webapp01.geiconsultants.com/ftp/gisfiles/YuimaMWD_GSA_Boundary.zip",
+            "extension": "zip",
+            "fileid": "http://webapp01.geiconsultants.com/ftp/gisfiles/YuimaMWD_GSA_Boundary.zip",
+            "isFile": true,
+            "parameters": [
+              
+            ],
+            "color": {
+              "r": 189,
+              "g": 2,
+              "b": 2
+            },
+            "useIconMarker": false,
+            "style": "circle",
+            "symbol_size": "8"
+          },
+          "layers": [
+            {
+              
+            }
+          ],
+          
+          "startEnabled": true
+        },
+        {
+          "type": "generic",
+          "url": "http://webapp01.geiconsultants.com/ftp/gisfiles/YuimaMWD_Service_Area%20_Boundary.zip",
+          "title": "YuimaMWD_Service_Area%20_Boundary",
+          "options": {
+			"defaultZoomTo":true,
+            "filename": "http://webapp01.geiconsultants.com/ftp/gisfiles/YuimaMWD_Service_Area%20_Boundary.zip",
+            "extension": "zip",
+            "fileid": "http://webapp01.geiconsultants.com/ftp/gisfiles/YuimaMWD_Service_Area%20_Boundary.zip",
+            "isFile": true,
+            "parameters": [
+              
+            ]
+          },
+          "startEnabled": true
+        }
+      ]
+    }
+  ],
+  "hideTitleBar": false,
+  "hideSearchBar": false,
+  "hideEditTool": false,
+  "hideSaveTool": false,
+  "hidePrintTool": false,
+  "hideMeasureTool": false,
+  "hideSelectedBoundary": false,
+  "login": {
+    "requireLogin": false
+  }
+}

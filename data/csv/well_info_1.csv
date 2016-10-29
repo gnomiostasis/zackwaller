@@ -1,0 +1,7 @@
+    CASGEM STATION ID,    BASIN ID,    WELL COMPLETION ID,    LATEST RP ELEVATION,    LATEST GS ELEVATION,    COMPLETION RPT NBR,    WELL LOCATION DESC,    CASGEM STATION USE ID,    CASGEM STATION ACTV,    TOTAL DEPTH FT,    CASGEM STATE WELL NBR,    OCCURRENCE TYPE ID,    CONFIDENCE TYPE ID,    RP DESC,    HAS WELL CONSTRUCTION DATA,    ADDL COMMENTS,    LOCAL WELL DESIGNATION,    IS VOLUNTARY REPORTING,    COUNTY ID,    LATITUDE,    LONGITUDE,    COORDINATE TYPE ID,    MASTER SITE ID
+ 12345,66,1,43,43,,,6, U,,,,, Need to add data, N, need to add construction information, LRR-01, Y,49,38.308934,-122.689595,,93278
+ 12346,66,1,43,43,,,6, U,,,,, Need to add data, N, need to add construction information, LRR-04, Y,49,38.332891, -122.709436,,93278
+ Test/Aug9,66,1,43,43,,,6, U,,,,, Need to add data, N, need to add construction information, LRR-05, Y,49,38.483594,-122.918218,,93278
+ ACA-1,66,1,43,43,,,6, U,,,,, Need to add data, N, need to add construction information, LRR-06, Y,49,38.403852, -122.738699,,93278
+
+
